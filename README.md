@@ -5,25 +5,6 @@ I'm a passionate **Software Developer** with experience in developing scalable, 
 
 ---
 
-## 🏢 Projects  
-- **Incubalab / Hiring System** *(PHP, Laravel, MySQL)*  
-   - Developed a business management system to handle and control forms.  
-   - [Check it out here](https://github.com/Cri5Jhoel/PR_Incubadora_Negocios)  
-
-- **Top Service / Service Contracting System** *(ASP.NET, SQL Server)*  
-   - Created a platform to manage and contract various services.  
-   - [Explore the project](https://github.com/RolyCalleGutierrez1/Top-Service)  
-
-- **Odoo Project Manager Module** *(Python, Odoo)*  
-   - Built a project management module integrated into Odoo.  
-   - [View on GitHub](https://github.com/David203009/Manage-Module-Odoo)  
-
-- **Car Guide App** *(React Native)*  
-   - Front-end project that connects users with automotive mechanics services.  
-   - [See more](https://github.com/David203009/Car-Guide-App)  
-
----
-
 ## 🔧 Technologies and Tools
 **Languages:**  
 - C# | JavaScript | Python | PHP  
