@@ -32,5 +32,4 @@ I'm a passionate **Software Developer** with experience in developing scalable, 
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [David Valdivia Arancibia](https://www.linkedin.com/in/david-valdivia-arancibia-a52152301)  
-- **Email:** [teranjegre@email.com](mailto:teranjegre@email.com)  
 - **GitHub:** [David203009](https://github.com/David203009)  
